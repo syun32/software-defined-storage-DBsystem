@@ -1,0 +1,11 @@
+void INPUT_QUERY(char *buffer, long size, struct _finddata_t fd);
+void UPLOAD();
+void LOGGING(char id[], char pw[], char db_file_name[]);
+void INTERFAACE_DISPLAY();
+void METADATA_DISPLAY();
+void UPDATE();
+void DATABASE_DISPLAY();
+void FILESYSTEM_DISPLAY();
+int Repetitional_function();
+int CONNECTOR();
+void CLOSER();
