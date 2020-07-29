@@ -1,4 +1,4 @@
-# oftware_defined_storage_DBsystem
+# Software_defined_storage_DBsystem
 file management system using C++
 
 * 일정 크기 이상의 file은 filesystem에, 그 이하 크기의 file은 database에 저장
